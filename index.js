@@ -1,5 +1,5 @@
 const tutorials = [
-  'what does the this keyword Mean?',
+  'what does the this keyword mean?',
   'What is the Contutorialuctor OO pattern?',
   'implementing Blockchain Web API',
   'The Test Driven Development Workflow',
